@@ -1,0 +1,3 @@
+create Git repo and clone it into Local folder.
+then created mycode.py inside the visual then added simple Data file , which used panadas and python.
+do the  git , add , commit and push before start DVC

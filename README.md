@@ -1,7 +1,7 @@
 ```md
 # Data Version Control (DVC) Tutorial
 
-This tutorial is created by **Gihan Lakmal** to demonstrate how to use DVC for versioning data files.
+This tutorial is created to demonstrate how to use DVC for versioning data files. It covers essential concepts such as tracking dataset versions, managing ML experiments efficiently, and ensuring reproducibility in machine learning workflows.
 
 ## Steps to Set Up DVC with Git
 
